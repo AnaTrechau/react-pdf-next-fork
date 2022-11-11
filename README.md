@@ -1,2 +1,1 @@
-# react-pdf-next-fork
-Created with CodeSandbox
+# react-pdf + next js example
